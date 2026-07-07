@@ -115,7 +115,7 @@ final class RootlyUITests: XCTestCase {
         nameField.tap()
         nameField.typeText("Basil")
 
-        app.staticTexts["Method"].tap()
+        app.staticTexts["Cutting"].tap()
         XCTAssertFalse(app.keyboards.element.exists, "Keyboard did not dismiss on tap-outside")
     }
 }
