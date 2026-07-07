@@ -1,0 +1,29 @@
+{
+  "identifier" : "rootly",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "rootly_pro_unlock",
+      "localizations" : [
+        {
+          "description" : "Unlocks unlimited cuttings and full root-stage history",
+          "displayName" : "Rootly Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "rootly_pro_unlock",
+      "referenceName" : "Rootly Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
